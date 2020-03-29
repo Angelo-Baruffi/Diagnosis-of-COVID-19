@@ -1,4 +1,4 @@
-# angelo-baruffi
+# Diagnosis-of-COVID-19
 
 Diagnosis of COVID-19 and its clinical spectrum
 
